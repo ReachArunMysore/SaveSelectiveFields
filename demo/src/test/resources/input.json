@@ -1,0 +1,14 @@
+{
+  "batteryPercent": 52.999996,
+  "charging": false,
+  "chargingType": "na",
+  "batteryTemperature": null,
+  "batteryHealth": "good",
+  "batteryVoltage": 3820,
+  "ambientTemperature": null,
+  "networkOperator": "",
+  "dataStatus": "Disconnected",
+  "networkType": "Unknown",
+  "rcvdTime": 1590576465897,
+  "rcvdDate": 1590576465897
+}
