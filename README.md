@@ -1,2 +1,1 @@
-# JSON-Filter
-Selectively save fields onto the DB from the incoming JSON
+Repo contains some problems I have tried to solve, POCs and learnings
