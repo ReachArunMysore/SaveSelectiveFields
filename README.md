@@ -1,1 +1,1 @@
-Repo contains some problems I have tried to solve, POCs and learnings
+A small utility project to save only a set of configured fields into the DB from an incoming JSON. The fields that are to be saved are configurable on the fly in the properties file. Uses H2 DB and Jackson library.
